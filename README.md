@@ -11,7 +11,7 @@ A black-and-white fitness tracker for Android and iOS, built with Expo and React
 
 Returning users open directly into the tracker. The starting weight becomes the first daily weigh-in. Existing local tracking history is preserved. A profile button shows saved details and current BMI. BMI updates using the latest logged weight. BMI is a screening measure; the app does not apply adult categories to children and teens or display a BMI for children under 2.
 
-Cards, fields, and buttons use soft continuous corners on iOS and a matching superellipse in browsers that support it, with rounded-corner fallbacks elsewhere. DOB uses the browser's calendar, an iOS date-wheel sheet, or the Android date dialog. The picker allows dates from 1900 through today. Saved DOB can also be updated from Your profile.
+Cards, fields, and buttons use soft continuous corners on iOS and a matching superellipse in browsers that support it, with rounded-corner fallbacks elsewhere. DOB uses the browser's calendar, an -wheel sheet, or the Android date dialog. The picker allows dates from 1900 through today. Saved DOB can also be updated from Your profile.
 
 ## Tracking
 
