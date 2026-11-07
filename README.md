@@ -50,9 +50,8 @@ There is one local profile per installation/browser profile. Native profile deta
 
 This local version does not separate multiple people sharing the same device/browser profile and does not sync across devices. Accounts and private cloud storage are future work. Previously prepared authentication code and database migrations remain in the project but are not the active entry flow.
 
-## Verification
 
-TypeScript checking, production web/Android/iOS bundle exports, and eleven unit/database tests cover tracking calculations, dates, unit conversion, secure-session adapter behavior, BMI/age handling, and the prepared future account schema. The account database tests run locally in PostgreSQL via PGlite; they do not imply a live cloud backend is active. Native bundle exports are not signed installations or real-phone UI tests.
+
 
 The current app also passes a browser flow covering first-time setup, calendar DOB input and bounds, saved-profile DOB edits, continuous corner styling where supported, imperial conversions, BMI review/edit, profile persistence, first weigh-in, returning-user startup, water and exercise logging, and BMI changes after a weight update. All tabs were checked at 320, 390, 768, and 1440 pixels. The test confirms no auth/cloud requests in the active flow.
 
