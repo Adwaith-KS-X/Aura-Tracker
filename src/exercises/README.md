@@ -1,0 +1,11 @@
+# Exercise catalog
+
+1,318 unique names imported from https://github.com/hasaneyldrm/exercises-dataset on 2026-11-06, plus one original bodyweight squat entry. Duplicate names removed. Only English non-media data is bundled; see LICENSE.txt for upstream MIT copyright and terms. No Gym visual images, GIFs, or media URLs are included or requested.
+
+500 exercises have movement previews: 499 exercise-specific Flow illustration sequences and the original Aura bodyweight squat diagram. The Browse workout button opens all 1,319 exercises. Under Show filters, enable Workouts with 2D demo to show the 500 animated entries. Selecting an animated exercise also shows its preview directly in the logging form.
+
+Artwork source: https://github.com/ozansozuozgit/flow-exercise-dataset (imported 2026-11-06). See flow-notices/ARTWORK-LICENSE, NOTICE.md, LICENSE and provenance.json for the original notices, per-exercise provenance, source paths and resulting PNG hashes. Source SVGs were converted to 320px transparent three-frame sprites, preserving frame alignment. The 499 bundled sprite sheets total about 6.5 MB. No Gym visual media was used. Duplicate artwork for smith full squat was excluded in favor of standard smith squat.
+
+Selection is editorial: prioritize familiar movements and common gym/bodyweight equipment, with fewer specialized variants. This is not an evidence-based ranking of the world's 500 most popular exercises. Flow labels its artwork as an unverified preview with incomplete generation provenance; some illustrations may omit equipment or imperfectly represent variants. The media and inherited instructions still need professional form review before a public instructional release. Automated checks establish loading, matching IDs, nonblank frames and changing poses, not biomechanical correctness or independent legal clearance.
+
+Search is local, accent/case/punctuation insensitive, with all-word matching over name, body area, target/secondary muscles, equipment and selected common aliases. The library uses a virtualized list. Only the selected exercise animates; playback pauses on backgrounding or a hidden browser tab. Reduced motion provides manually selected static poses. Assets are bundled for offline use on web, Android and iOS. No accounts or tracking storage changed.

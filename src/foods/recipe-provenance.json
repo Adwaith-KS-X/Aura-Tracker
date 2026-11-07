@@ -1,0 +1,2498 @@
+[
+  {
+    "id": "aura-recipe-1",
+    "name": "Dal tadka",
+    "finishedYieldGrams": 600,
+    "ingredients": [
+      {
+        "fdcId": 172421,
+        "grams": 350
+      },
+      {
+        "fdcId": 170000,
+        "grams": 60
+      },
+      {
+        "fdcId": 170457,
+        "grams": 80
+      },
+      {
+        "fdcId": 171411,
+        "grams": 15
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-2",
+    "name": "Chole",
+    "finishedYieldGrams": 650,
+    "ingredients": [
+      {
+        "fdcId": 173757,
+        "grams": 400
+      },
+      {
+        "fdcId": 170000,
+        "grams": 80
+      },
+      {
+        "fdcId": 170457,
+        "grams": 120
+      },
+      {
+        "fdcId": 171411,
+        "grams": 20
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-3",
+    "name": "Rajma masala",
+    "finishedYieldGrams": 650,
+    "ingredients": [
+      {
+        "fdcId": 175194,
+        "grams": 400
+      },
+      {
+        "fdcId": 170000,
+        "grams": 80
+      },
+      {
+        "fdcId": 170457,
+        "grams": 120
+      },
+      {
+        "fdcId": 171411,
+        "grams": 20
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-4",
+    "name": "Moong dal khichdi",
+    "finishedYieldGrams": 750,
+    "ingredients": [
+      {
+        "fdcId": 168878,
+        "grams": 400
+      },
+      {
+        "fdcId": 174257,
+        "grams": 200
+      },
+      {
+        "fdcId": 170394,
+        "grams": 60
+      },
+      {
+        "fdcId": 171411,
+        "grams": 10
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-5",
+    "name": "Curd rice",
+    "finishedYieldGrams": 700,
+    "ingredients": [
+      {
+        "fdcId": 168878,
+        "grams": 400
+      },
+      {
+        "fdcId": 171284,
+        "grams": 250
+      },
+      {
+        "fdcId": 171411,
+        "grams": 8
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-6",
+    "name": "Lemon rice",
+    "finishedYieldGrams": 500,
+    "ingredients": [
+      {
+        "fdcId": 168878,
+        "grams": 460
+      },
+      {
+        "fdcId": 171411,
+        "grams": 15
+      },
+      {
+        "fdcId": 167747,
+        "grams": 25
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-7",
+    "name": "Jeera rice",
+    "finishedYieldGrams": 500,
+    "ingredients": [
+      {
+        "fdcId": 168878,
+        "grams": 480
+      },
+      {
+        "fdcId": 171411,
+        "grams": 12
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-8",
+    "name": "Vegetable pulao",
+    "finishedYieldGrams": 700,
+    "ingredients": [
+      {
+        "fdcId": 168878,
+        "grams": 500
+      },
+      {
+        "fdcId": 170420,
+        "grams": 70
+      },
+      {
+        "fdcId": 170394,
+        "grams": 70
+      },
+      {
+        "fdcId": 170000,
+        "grams": 40
+      },
+      {
+        "fdcId": 171411,
+        "grams": 20
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-9",
+    "name": "Tomato rice",
+    "finishedYieldGrams": 700,
+    "ingredients": [
+      {
+        "fdcId": 168878,
+        "grams": 450
+      },
+      {
+        "fdcId": 170457,
+        "grams": 180
+      },
+      {
+        "fdcId": 170000,
+        "grams": 60
+      },
+      {
+        "fdcId": 171411,
+        "grams": 15
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-10",
+    "name": "Egg fried rice",
+    "finishedYieldGrams": 700,
+    "ingredients": [
+      {
+        "fdcId": 168878,
+        "grams": 450
+      },
+      {
+        "fdcId": 172187,
+        "grams": 120
+      },
+      {
+        "fdcId": 170000,
+        "grams": 50
+      },
+      {
+        "fdcId": 170394,
+        "grams": 50
+      },
+      {
+        "fdcId": 171411,
+        "grams": 20
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-11",
+    "name": "Chicken fried rice",
+    "finishedYieldGrams": 700,
+    "ingredients": [
+      {
+        "fdcId": 168878,
+        "grams": 450
+      },
+      {
+        "fdcId": 171477,
+        "grams": 120
+      },
+      {
+        "fdcId": 170000,
+        "grams": 50
+      },
+      {
+        "fdcId": 170394,
+        "grams": 50
+      },
+      {
+        "fdcId": 171411,
+        "grams": 20
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-12",
+    "name": "Plain paratha",
+    "finishedYieldGrams": 400,
+    "ingredients": [
+      {
+        "fdcId": 168893,
+        "grams": 250
+      },
+      {
+        "fdcId": 171411,
+        "grams": 35
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-13",
+    "name": "Aloo paratha",
+    "finishedYieldGrams": 650,
+    "ingredients": [
+      {
+        "fdcId": 168893,
+        "grams": 250
+      },
+      {
+        "fdcId": 170438,
+        "grams": 300
+      },
+      {
+        "fdcId": 171411,
+        "grams": 30
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-14",
+    "name": "Paneer paratha",
+    "finishedYieldGrams": 600,
+    "ingredients": [
+      {
+        "fdcId": 168893,
+        "grams": 250
+      },
+      {
+        "fdcId": 2705740,
+        "grams": 200
+      },
+      {
+        "fdcId": 171411,
+        "grams": 25
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-15",
+    "name": "Puri",
+    "finishedYieldGrams": 380,
+    "ingredients": [
+      {
+        "fdcId": 168893,
+        "grams": 250
+      },
+      {
+        "fdcId": 171411,
+        "grams": 50
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-16",
+    "name": "Puttu",
+    "finishedYieldGrams": 650,
+    "ingredients": [
+      {
+        "fdcId": 169714,
+        "grams": 250
+      },
+      {
+        "fdcId": 170169,
+        "grams": 100
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-17",
+    "name": "Idiyappam",
+    "finishedYieldGrams": 600,
+    "ingredients": [
+      {
+        "fdcId": 169714,
+        "grams": 250
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-18",
+    "name": "Appam",
+    "finishedYieldGrams": 650,
+    "ingredients": [
+      {
+        "fdcId": 169714,
+        "grams": 250
+      },
+      {
+        "fdcId": 170169,
+        "grams": 60
+      },
+      {
+        "fdcId": 169655,
+        "grams": 15
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-19",
+    "name": "Rava upma",
+    "finishedYieldGrams": 700,
+    "ingredients": [
+      {
+        "fdcId": 168933,
+        "grams": 220
+      },
+      {
+        "fdcId": 170000,
+        "grams": 60
+      },
+      {
+        "fdcId": 170394,
+        "grams": 60
+      },
+      {
+        "fdcId": 170420,
+        "grams": 40
+      },
+      {
+        "fdcId": 171411,
+        "grams": 20
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-20",
+    "name": "Besan chilla",
+    "finishedYieldGrams": 500,
+    "ingredients": [
+      {
+        "fdcId": 174288,
+        "grams": 220
+      },
+      {
+        "fdcId": 170000,
+        "grams": 60
+      },
+      {
+        "fdcId": 170457,
+        "grams": 80
+      },
+      {
+        "fdcId": 171411,
+        "grams": 15
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-21",
+    "name": "Aloo gobi",
+    "finishedYieldGrams": 700,
+    "ingredients": [
+      {
+        "fdcId": 170438,
+        "grams": 300
+      },
+      {
+        "fdcId": 170397,
+        "grams": 300
+      },
+      {
+        "fdcId": 170000,
+        "grams": 60
+      },
+      {
+        "fdcId": 171411,
+        "grams": 25
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-22",
+    "name": "Aloo matar",
+    "finishedYieldGrams": 700,
+    "ingredients": [
+      {
+        "fdcId": 170438,
+        "grams": 300
+      },
+      {
+        "fdcId": 170420,
+        "grams": 200
+      },
+      {
+        "fdcId": 170457,
+        "grams": 100
+      },
+      {
+        "fdcId": 170000,
+        "grams": 60
+      },
+      {
+        "fdcId": 171411,
+        "grams": 20
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-23",
+    "name": "Paneer bhurji",
+    "finishedYieldGrams": 600,
+    "ingredients": [
+      {
+        "fdcId": 2705740,
+        "grams": 300
+      },
+      {
+        "fdcId": 170000,
+        "grams": 100
+      },
+      {
+        "fdcId": 170457,
+        "grams": 150
+      },
+      {
+        "fdcId": 171411,
+        "grams": 15
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-24",
+    "name": "Egg bhurji",
+    "finishedYieldGrams": 550,
+    "ingredients": [
+      {
+        "fdcId": 172187,
+        "grams": 350
+      },
+      {
+        "fdcId": 170000,
+        "grams": 80
+      },
+      {
+        "fdcId": 170457,
+        "grams": 100
+      },
+      {
+        "fdcId": 171411,
+        "grams": 10
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-25",
+    "name": "Matar paneer",
+    "finishedYieldGrams": 800,
+    "ingredients": [
+      {
+        "fdcId": 2705740,
+        "grams": 250
+      },
+      {
+        "fdcId": 170420,
+        "grams": 200
+      },
+      {
+        "fdcId": 170000,
+        "grams": 100
+      },
+      {
+        "fdcId": 170457,
+        "grams": 200
+      },
+      {
+        "fdcId": 171411,
+        "grams": 20
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-26",
+    "name": "Paneer butter masala",
+    "finishedYieldGrams": 800,
+    "ingredients": [
+      {
+        "fdcId": 2705740,
+        "grams": 300
+      },
+      {
+        "fdcId": 170457,
+        "grams": 250
+      },
+      {
+        "fdcId": 170000,
+        "grams": 80
+      },
+      {
+        "fdcId": 173430,
+        "grams": 40
+      },
+      {
+        "fdcId": 172217,
+        "grams": 100
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-27",
+    "name": "Coconut chutney",
+    "finishedYieldGrams": 300,
+    "ingredients": [
+      {
+        "fdcId": 170169,
+        "grams": 130
+      },
+      {
+        "fdcId": 173757,
+        "grams": 35
+      },
+      {
+        "fdcId": 171411,
+        "grams": 5
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-28",
+    "name": "Cucumber raita",
+    "finishedYieldGrams": 350,
+    "ingredients": [
+      {
+        "fdcId": 171284,
+        "grams": 250
+      },
+      {
+        "fdcId": 168409,
+        "grams": 80
+      },
+      {
+        "fdcId": 170000,
+        "grams": 20
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-29",
+    "name": "Sweet lassi",
+    "finishedYieldGrams": 500,
+    "ingredients": [
+      {
+        "fdcId": 171284,
+        "grams": 350
+      },
+      {
+        "fdcId": 172217,
+        "grams": 100
+      },
+      {
+        "fdcId": 169655,
+        "grams": 40
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-30",
+    "name": "Chaas",
+    "finishedYieldGrams": 500,
+    "ingredients": [
+      {
+        "fdcId": 171284,
+        "grams": 200
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-31",
+    "name": "Rice kheer",
+    "finishedYieldGrams": 850,
+    "ingredients": [
+      {
+        "fdcId": 168878,
+        "grams": 200
+      },
+      {
+        "fdcId": 172217,
+        "grams": 600
+      },
+      {
+        "fdcId": 169655,
+        "grams": 80
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-32",
+    "name": "Suji halwa",
+    "finishedYieldGrams": 600,
+    "ingredients": [
+      {
+        "fdcId": 168933,
+        "grams": 150
+      },
+      {
+        "fdcId": 169655,
+        "grams": 120
+      },
+      {
+        "fdcId": 173430,
+        "grams": 80
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-33",
+    "name": "Gajar halwa",
+    "finishedYieldGrams": 650,
+    "ingredients": [
+      {
+        "fdcId": 170394,
+        "grams": 400
+      },
+      {
+        "fdcId": 172217,
+        "grams": 250
+      },
+      {
+        "fdcId": 169655,
+        "grams": 100
+      },
+      {
+        "fdcId": 173430,
+        "grams": 40
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-34",
+    "name": "Coconut ladoo",
+    "finishedYieldGrams": 450,
+    "ingredients": [
+      {
+        "fdcId": 170169,
+        "grams": 250
+      },
+      {
+        "fdcId": 169655,
+        "grams": 130
+      },
+      {
+        "fdcId": 172217,
+        "grams": 100
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-35",
+    "name": "Alfaham chicken",
+    "finishedYieldGrams": 700,
+    "ingredients": [
+      {
+        "fdcId": 171450,
+        "grams": 650
+      },
+      {
+        "fdcId": 171284,
+        "grams": 40
+      },
+      {
+        "fdcId": 171411,
+        "grams": 15
+      },
+      {
+        "fdcId": 167747,
+        "grams": 20
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-36",
+    "name": "Kerala parotta",
+    "finishedYieldGrams": 800,
+    "ingredients": [
+      {
+        "fdcId": 168894,
+        "grams": 500
+      },
+      {
+        "fdcId": 171411,
+        "grams": 100
+      },
+      {
+        "fdcId": 172187,
+        "grams": 50
+      },
+      {
+        "fdcId": 169655,
+        "grams": 10
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-37",
+    "name": "Ari pathiri",
+    "finishedYieldGrams": 600,
+    "ingredients": [
+      {
+        "fdcId": 169714,
+        "grams": 250
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-38",
+    "name": "Neypathal",
+    "finishedYieldGrams": 600,
+    "ingredients": [
+      {
+        "fdcId": 169714,
+        "grams": 250
+      },
+      {
+        "fdcId": 170169,
+        "grams": 50
+      },
+      {
+        "fdcId": 170000,
+        "grams": 50
+      },
+      {
+        "fdcId": 171411,
+        "grams": 50
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-39",
+    "name": "Orotti",
+    "finishedYieldGrams": 650,
+    "ingredients": [
+      {
+        "fdcId": 169714,
+        "grams": 250
+      },
+      {
+        "fdcId": 170169,
+        "grams": 80
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-40",
+    "name": "Vellayappam",
+    "finishedYieldGrams": 650,
+    "ingredients": [
+      {
+        "fdcId": 169714,
+        "grams": 250
+      },
+      {
+        "fdcId": 170169,
+        "grams": 80
+      },
+      {
+        "fdcId": 169655,
+        "grams": 10
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-41",
+    "name": "Kadala curry",
+    "finishedYieldGrams": 750,
+    "ingredients": [
+      {
+        "fdcId": 173757,
+        "grams": 450
+      },
+      {
+        "fdcId": 170169,
+        "grams": 80
+      },
+      {
+        "fdcId": 170000,
+        "grams": 100
+      },
+      {
+        "fdcId": 170457,
+        "grams": 80
+      },
+      {
+        "fdcId": 171411,
+        "grams": 15
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-42",
+    "name": "Kerala mutta curry",
+    "finishedYieldGrams": 700,
+    "ingredients": [
+      {
+        "fdcId": 173424,
+        "grams": 350
+      },
+      {
+        "fdcId": 170000,
+        "grams": 150
+      },
+      {
+        "fdcId": 170457,
+        "grams": 150
+      },
+      {
+        "fdcId": 170172,
+        "grams": 100
+      },
+      {
+        "fdcId": 171411,
+        "grams": 15
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-43",
+    "name": "Kerala mutta roast",
+    "finishedYieldGrams": 600,
+    "ingredients": [
+      {
+        "fdcId": 173424,
+        "grams": 350
+      },
+      {
+        "fdcId": 170000,
+        "grams": 180
+      },
+      {
+        "fdcId": 170457,
+        "grams": 80
+      },
+      {
+        "fdcId": 171411,
+        "grams": 25
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-44",
+    "name": "Kerala chicken curry",
+    "finishedYieldGrams": 900,
+    "ingredients": [
+      {
+        "fdcId": 171450,
+        "grams": 500
+      },
+      {
+        "fdcId": 170000,
+        "grams": 160
+      },
+      {
+        "fdcId": 170457,
+        "grams": 120
+      },
+      {
+        "fdcId": 170172,
+        "grams": 150
+      },
+      {
+        "fdcId": 171411,
+        "grams": 20
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-45",
+    "name": "Chicken roast (Kerala)",
+    "finishedYieldGrams": 750,
+    "ingredients": [
+      {
+        "fdcId": 171450,
+        "grams": 500
+      },
+      {
+        "fdcId": 170000,
+        "grams": 180
+      },
+      {
+        "fdcId": 170457,
+        "grams": 80
+      },
+      {
+        "fdcId": 171411,
+        "grams": 30
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-46",
+    "name": "Chicken stew (Kerala)",
+    "finishedYieldGrams": 1000,
+    "ingredients": [
+      {
+        "fdcId": 171477,
+        "grams": 400
+      },
+      {
+        "fdcId": 170438,
+        "grams": 200
+      },
+      {
+        "fdcId": 170000,
+        "grams": 100
+      },
+      {
+        "fdcId": 170394,
+        "grams": 80
+      },
+      {
+        "fdcId": 170172,
+        "grams": 200
+      },
+      {
+        "fdcId": 171411,
+        "grams": 10
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-47",
+    "name": "Vegetable stew (Kerala)",
+    "finishedYieldGrams": 900,
+    "ingredients": [
+      {
+        "fdcId": 170438,
+        "grams": 250
+      },
+      {
+        "fdcId": 170394,
+        "grams": 120
+      },
+      {
+        "fdcId": 170420,
+        "grams": 100
+      },
+      {
+        "fdcId": 170000,
+        "grams": 100
+      },
+      {
+        "fdcId": 170172,
+        "grams": 200
+      },
+      {
+        "fdcId": 171411,
+        "grams": 10
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-48",
+    "name": "Kerala beef curry",
+    "finishedYieldGrams": 900,
+    "ingredients": [
+      {
+        "fdcId": 171203,
+        "grams": 500
+      },
+      {
+        "fdcId": 170000,
+        "grams": 180
+      },
+      {
+        "fdcId": 170457,
+        "grams": 150
+      },
+      {
+        "fdcId": 170172,
+        "grams": 80
+      },
+      {
+        "fdcId": 171411,
+        "grams": 20
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-49",
+    "name": "Beef ularthiyathu",
+    "finishedYieldGrams": 750,
+    "ingredients": [
+      {
+        "fdcId": 171203,
+        "grams": 500
+      },
+      {
+        "fdcId": 170000,
+        "grams": 180
+      },
+      {
+        "fdcId": 170169,
+        "grams": 60
+      },
+      {
+        "fdcId": 171411,
+        "grams": 35
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-50",
+    "name": "Kerala fish curry",
+    "finishedYieldGrams": 800,
+    "ingredients": [
+      {
+        "fdcId": 175177,
+        "grams": 450
+      },
+      {
+        "fdcId": 170000,
+        "grams": 120
+      },
+      {
+        "fdcId": 170457,
+        "grams": 180
+      },
+      {
+        "fdcId": 171411,
+        "grams": 20
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-51",
+    "name": "Fish molee",
+    "finishedYieldGrams": 850,
+    "ingredients": [
+      {
+        "fdcId": 175177,
+        "grams": 450
+      },
+      {
+        "fdcId": 170000,
+        "grams": 100
+      },
+      {
+        "fdcId": 170457,
+        "grams": 100
+      },
+      {
+        "fdcId": 170172,
+        "grams": 200
+      },
+      {
+        "fdcId": 171411,
+        "grams": 15
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-52",
+    "name": "Kerala fish fry",
+    "finishedYieldGrams": 500,
+    "ingredients": [
+      {
+        "fdcId": 175177,
+        "grams": 450
+      },
+      {
+        "fdcId": 171411,
+        "grams": 40
+      },
+      {
+        "fdcId": 167747,
+        "grams": 15
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-53",
+    "name": "Prawn roast (Kerala)",
+    "finishedYieldGrams": 650,
+    "ingredients": [
+      {
+        "fdcId": 175180,
+        "grams": 400
+      },
+      {
+        "fdcId": 170000,
+        "grams": 150
+      },
+      {
+        "fdcId": 170457,
+        "grams": 100
+      },
+      {
+        "fdcId": 170169,
+        "grams": 30
+      },
+      {
+        "fdcId": 171411,
+        "grams": 25
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-54",
+    "name": "Prawn curry (Kerala)",
+    "finishedYieldGrams": 800,
+    "ingredients": [
+      {
+        "fdcId": 175180,
+        "grams": 400
+      },
+      {
+        "fdcId": 170000,
+        "grams": 120
+      },
+      {
+        "fdcId": 170457,
+        "grams": 120
+      },
+      {
+        "fdcId": 170172,
+        "grams": 180
+      },
+      {
+        "fdcId": 171411,
+        "grams": 15
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-55",
+    "name": "Thalassery chicken biryani",
+    "finishedYieldGrams": 1200,
+    "ingredients": [
+      {
+        "fdcId": 168878,
+        "grams": 650
+      },
+      {
+        "fdcId": 171450,
+        "grams": 300
+      },
+      {
+        "fdcId": 170000,
+        "grams": 180
+      },
+      {
+        "fdcId": 171284,
+        "grams": 70
+      },
+      {
+        "fdcId": 173412,
+        "grams": 40
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-56",
+    "name": "Malabar beef biryani",
+    "finishedYieldGrams": 1200,
+    "ingredients": [
+      {
+        "fdcId": 168878,
+        "grams": 650
+      },
+      {
+        "fdcId": 171203,
+        "grams": 300
+      },
+      {
+        "fdcId": 170000,
+        "grams": 180
+      },
+      {
+        "fdcId": 171284,
+        "grams": 70
+      },
+      {
+        "fdcId": 173412,
+        "grams": 40
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-57",
+    "name": "Neychoru",
+    "finishedYieldGrams": 700,
+    "ingredients": [
+      {
+        "fdcId": 168878,
+        "grams": 620
+      },
+      {
+        "fdcId": 170000,
+        "grams": 50
+      },
+      {
+        "fdcId": 173412,
+        "grams": 35
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-58",
+    "name": "Chicken mandi (rice and meat)",
+    "finishedYieldGrams": 1000,
+    "ingredients": [
+      {
+        "fdcId": 168878,
+        "grams": 650
+      },
+      {
+        "fdcId": 171450,
+        "grams": 280
+      },
+      {
+        "fdcId": 170000,
+        "grams": 40
+      },
+      {
+        "fdcId": 171411,
+        "grams": 25
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-59",
+    "name": "Mandi rice",
+    "finishedYieldGrams": 700,
+    "ingredients": [
+      {
+        "fdcId": 168878,
+        "grams": 650
+      },
+      {
+        "fdcId": 170000,
+        "grams": 30
+      },
+      {
+        "fdcId": 171411,
+        "grams": 25
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-60",
+    "name": "Kappa vevichathu",
+    "finishedYieldGrams": 850,
+    "ingredients": [
+      {
+        "fdcId": 169985,
+        "grams": 550
+      },
+      {
+        "fdcId": 170169,
+        "grams": 70
+      },
+      {
+        "fdcId": 171411,
+        "grams": 12
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-61",
+    "name": "Kappa biryani",
+    "finishedYieldGrams": 1100,
+    "ingredients": [
+      {
+        "fdcId": 169985,
+        "grams": 550
+      },
+      {
+        "fdcId": 171203,
+        "grams": 300
+      },
+      {
+        "fdcId": 170000,
+        "grams": 100
+      },
+      {
+        "fdcId": 170169,
+        "grams": 60
+      },
+      {
+        "fdcId": 171411,
+        "grams": 20
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-62",
+    "name": "Cabbage thoran",
+    "finishedYieldGrams": 650,
+    "ingredients": [
+      {
+        "fdcId": 169976,
+        "grams": 500
+      },
+      {
+        "fdcId": 170169,
+        "grams": 80
+      },
+      {
+        "fdcId": 170000,
+        "grams": 50
+      },
+      {
+        "fdcId": 171411,
+        "grams": 15
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-63",
+    "name": "Beans thoran",
+    "finishedYieldGrams": 650,
+    "ingredients": [
+      {
+        "fdcId": 169141,
+        "grams": 500
+      },
+      {
+        "fdcId": 170169,
+        "grams": 80
+      },
+      {
+        "fdcId": 170000,
+        "grams": 50
+      },
+      {
+        "fdcId": 171411,
+        "grams": 15
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-64",
+    "name": "Carrot thoran",
+    "finishedYieldGrams": 650,
+    "ingredients": [
+      {
+        "fdcId": 170394,
+        "grams": 500
+      },
+      {
+        "fdcId": 170169,
+        "grams": 80
+      },
+      {
+        "fdcId": 170000,
+        "grams": 50
+      },
+      {
+        "fdcId": 171411,
+        "grams": 15
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-65",
+    "name": "Avial",
+    "finishedYieldGrams": 1000,
+    "ingredients": [
+      {
+        "fdcId": 170394,
+        "grams": 180
+      },
+      {
+        "fdcId": 169141,
+        "grams": 180
+      },
+      {
+        "fdcId": 170072,
+        "grams": 180
+      },
+      {
+        "fdcId": 168216,
+        "grams": 180
+      },
+      {
+        "fdcId": 170169,
+        "grams": 100
+      },
+      {
+        "fdcId": 171284,
+        "grams": 100
+      },
+      {
+        "fdcId": 171411,
+        "grams": 20
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-66",
+    "name": "Olan",
+    "finishedYieldGrams": 900,
+    "ingredients": [
+      {
+        "fdcId": 173759,
+        "grams": 200
+      },
+      {
+        "fdcId": 170475,
+        "grams": 350
+      },
+      {
+        "fdcId": 170172,
+        "grams": 180
+      },
+      {
+        "fdcId": 171411,
+        "grams": 10
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-67",
+    "name": "Kalan",
+    "finishedYieldGrams": 800,
+    "ingredients": [
+      {
+        "fdcId": 170072,
+        "grams": 250
+      },
+      {
+        "fdcId": 168216,
+        "grams": 200
+      },
+      {
+        "fdcId": 171284,
+        "grams": 250
+      },
+      {
+        "fdcId": 170169,
+        "grams": 70
+      },
+      {
+        "fdcId": 171411,
+        "grams": 10
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-68",
+    "name": "Erissery",
+    "finishedYieldGrams": 850,
+    "ingredients": [
+      {
+        "fdcId": 170072,
+        "grams": 400
+      },
+      {
+        "fdcId": 174257,
+        "grams": 180
+      },
+      {
+        "fdcId": 170169,
+        "grams": 100
+      },
+      {
+        "fdcId": 171411,
+        "grams": 15
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-69",
+    "name": "Moru curry",
+    "finishedYieldGrams": 700,
+    "ingredients": [
+      {
+        "fdcId": 171284,
+        "grams": 450
+      },
+      {
+        "fdcId": 170169,
+        "grams": 50
+      },
+      {
+        "fdcId": 170000,
+        "grams": 40
+      },
+      {
+        "fdcId": 171411,
+        "grams": 12
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-70",
+    "name": "Kerala parippu curry",
+    "finishedYieldGrams": 700,
+    "ingredients": [
+      {
+        "fdcId": 174257,
+        "grams": 450
+      },
+      {
+        "fdcId": 170169,
+        "grams": 70
+      },
+      {
+        "fdcId": 173412,
+        "grams": 15
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-71",
+    "name": "Pazham pori",
+    "finishedYieldGrams": 750,
+    "ingredients": [
+      {
+        "fdcId": 169130,
+        "grams": 450
+      },
+      {
+        "fdcId": 168894,
+        "grams": 160
+      },
+      {
+        "fdcId": 169655,
+        "grams": 30
+      },
+      {
+        "fdcId": 171411,
+        "grams": 60
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-72",
+    "name": "Unniyappam",
+    "finishedYieldGrams": 650,
+    "ingredients": [
+      {
+        "fdcId": 169714,
+        "grams": 220
+      },
+      {
+        "fdcId": 173944,
+        "grams": 180
+      },
+      {
+        "fdcId": 169655,
+        "grams": 150
+      },
+      {
+        "fdcId": 170169,
+        "grams": 40
+      },
+      {
+        "fdcId": 171411,
+        "grams": 60
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-73",
+    "name": "Ela ada",
+    "finishedYieldGrams": 750,
+    "ingredients": [
+      {
+        "fdcId": 169714,
+        "grams": 250
+      },
+      {
+        "fdcId": 170169,
+        "grams": 130
+      },
+      {
+        "fdcId": 169655,
+        "grams": 100
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-74",
+    "name": "Kozhukatta",
+    "finishedYieldGrams": 750,
+    "ingredients": [
+      {
+        "fdcId": 169714,
+        "grams": 250
+      },
+      {
+        "fdcId": 170169,
+        "grams": 120
+      },
+      {
+        "fdcId": 169655,
+        "grams": 100
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-75",
+    "name": "Sukhiyan",
+    "finishedYieldGrams": 750,
+    "ingredients": [
+      {
+        "fdcId": 174257,
+        "grams": 400
+      },
+      {
+        "fdcId": 168894,
+        "grams": 150
+      },
+      {
+        "fdcId": 170169,
+        "grams": 60
+      },
+      {
+        "fdcId": 169655,
+        "grams": 100
+      },
+      {
+        "fdcId": 171411,
+        "grams": 50
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-76",
+    "name": "Parippu vada",
+    "finishedYieldGrams": 700,
+    "ingredients": [
+      {
+        "fdcId": 173757,
+        "grams": 400
+      },
+      {
+        "fdcId": 174288,
+        "grams": 100
+      },
+      {
+        "fdcId": 170000,
+        "grams": 100
+      },
+      {
+        "fdcId": 171411,
+        "grams": 70
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-77",
+    "name": "Parippu payasam",
+    "finishedYieldGrams": 1000,
+    "ingredients": [
+      {
+        "fdcId": 174257,
+        "grams": 350
+      },
+      {
+        "fdcId": 170172,
+        "grams": 300
+      },
+      {
+        "fdcId": 169655,
+        "grams": 180
+      },
+      {
+        "fdcId": 173412,
+        "grams": 20
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-78",
+    "name": "Semiya payasam",
+    "finishedYieldGrams": 1000,
+    "ingredients": [
+      {
+        "fdcId": 168927,
+        "grams": 100
+      },
+      {
+        "fdcId": 172217,
+        "grams": 600
+      },
+      {
+        "fdcId": 169655,
+        "grams": 120
+      },
+      {
+        "fdcId": 173412,
+        "grams": 15
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-79",
+    "name": "Chakka pradhaman",
+    "finishedYieldGrams": 900,
+    "ingredients": [
+      {
+        "fdcId": 174687,
+        "grams": 450
+      },
+      {
+        "fdcId": 170172,
+        "grams": 250
+      },
+      {
+        "fdcId": 169655,
+        "grams": 160
+      },
+      {
+        "fdcId": 173412,
+        "grams": 20
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-80",
+    "name": "Butter chicken",
+    "finishedYieldGrams": 900,
+    "ingredients": [
+      {
+        "fdcId": 171477,
+        "grams": 400
+      },
+      {
+        "fdcId": 170457,
+        "grams": 250
+      },
+      {
+        "fdcId": 170859,
+        "grams": 100
+      },
+      {
+        "fdcId": 173430,
+        "grams": 40
+      },
+      {
+        "fdcId": 171284,
+        "grams": 60
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-81",
+    "name": "Chicken tikka masala",
+    "finishedYieldGrams": 900,
+    "ingredients": [
+      {
+        "fdcId": 171477,
+        "grams": 400
+      },
+      {
+        "fdcId": 170000,
+        "grams": 150
+      },
+      {
+        "fdcId": 170457,
+        "grams": 200
+      },
+      {
+        "fdcId": 170859,
+        "grams": 100
+      },
+      {
+        "fdcId": 171284,
+        "grams": 60
+      },
+      {
+        "fdcId": 171411,
+        "grams": 20
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-82",
+    "name": "Chicken tikka",
+    "finishedYieldGrams": 650,
+    "ingredients": [
+      {
+        "fdcId": 171477,
+        "grams": 550
+      },
+      {
+        "fdcId": 171284,
+        "grams": 100
+      },
+      {
+        "fdcId": 171411,
+        "grams": 20
+      },
+      {
+        "fdcId": 167747,
+        "grams": 20
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-83",
+    "name": "Tandoori chicken",
+    "finishedYieldGrams": 800,
+    "ingredients": [
+      {
+        "fdcId": 171450,
+        "grams": 700
+      },
+      {
+        "fdcId": 171284,
+        "grams": 100
+      },
+      {
+        "fdcId": 171411,
+        "grams": 15
+      },
+      {
+        "fdcId": 167747,
+        "grams": 20
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-84",
+    "name": "Kadai paneer",
+    "finishedYieldGrams": 850,
+    "ingredients": [
+      {
+        "fdcId": 2705740,
+        "grams": 350
+      },
+      {
+        "fdcId": 170000,
+        "grams": 160
+      },
+      {
+        "fdcId": 170457,
+        "grams": 250
+      },
+      {
+        "fdcId": 171411,
+        "grams": 25
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-85",
+    "name": "Shahi paneer",
+    "finishedYieldGrams": 850,
+    "ingredients": [
+      {
+        "fdcId": 2705740,
+        "grams": 300
+      },
+      {
+        "fdcId": 170000,
+        "grams": 150
+      },
+      {
+        "fdcId": 170457,
+        "grams": 200
+      },
+      {
+        "fdcId": 170859,
+        "grams": 100
+      },
+      {
+        "fdcId": 170162,
+        "grams": 40
+      },
+      {
+        "fdcId": 173430,
+        "grams": 20
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-86",
+    "name": "Chilli paneer",
+    "finishedYieldGrams": 750,
+    "ingredients": [
+      {
+        "fdcId": 2705740,
+        "grams": 350
+      },
+      {
+        "fdcId": 170000,
+        "grams": 200
+      },
+      {
+        "fdcId": 170457,
+        "grams": 100
+      },
+      {
+        "fdcId": 168894,
+        "grams": 50
+      },
+      {
+        "fdcId": 171411,
+        "grams": 35
+      },
+      {
+        "fdcId": 169655,
+        "grams": 15
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-87",
+    "name": "Bhatura",
+    "finishedYieldGrams": 600,
+    "ingredients": [
+      {
+        "fdcId": 168894,
+        "grams": 350
+      },
+      {
+        "fdcId": 171284,
+        "grams": 100
+      },
+      {
+        "fdcId": 171411,
+        "grams": 60
+      },
+      {
+        "fdcId": 169655,
+        "grams": 15
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-88",
+    "name": "Chole bhature",
+    "finishedYieldGrams": 1000,
+    "ingredients": [
+      {
+        "fdcId": 168894,
+        "grams": 250
+      },
+      {
+        "fdcId": 171284,
+        "grams": 60
+      },
+      {
+        "fdcId": 171411,
+        "grams": 70
+      },
+      {
+        "fdcId": 173757,
+        "grams": 350
+      },
+      {
+        "fdcId": 170000,
+        "grams": 100
+      },
+      {
+        "fdcId": 170457,
+        "grams": 120
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-89",
+    "name": "Pav bhaji (with pav)",
+    "finishedYieldGrams": 900,
+    "ingredients": [
+      {
+        "fdcId": 172796,
+        "grams": 200
+      },
+      {
+        "fdcId": 170438,
+        "grams": 250
+      },
+      {
+        "fdcId": 170420,
+        "grams": 100
+      },
+      {
+        "fdcId": 170397,
+        "grams": 100
+      },
+      {
+        "fdcId": 170457,
+        "grams": 150
+      },
+      {
+        "fdcId": 170000,
+        "grams": 60
+      },
+      {
+        "fdcId": 173430,
+        "grams": 40
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-90",
+    "name": "Vada pav",
+    "finishedYieldGrams": 600,
+    "ingredients": [
+      {
+        "fdcId": 172796,
+        "grams": 200
+      },
+      {
+        "fdcId": 170438,
+        "grams": 250
+      },
+      {
+        "fdcId": 174288,
+        "grams": 100
+      },
+      {
+        "fdcId": 171411,
+        "grams": 55
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-91",
+    "name": "Dhokla",
+    "finishedYieldGrams": 800,
+    "ingredients": [
+      {
+        "fdcId": 174288,
+        "grams": 250
+      },
+      {
+        "fdcId": 171284,
+        "grams": 100
+      },
+      {
+        "fdcId": 169655,
+        "grams": 30
+      },
+      {
+        "fdcId": 171411,
+        "grams": 25
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-92",
+    "name": "Aloo tikki",
+    "finishedYieldGrams": 650,
+    "ingredients": [
+      {
+        "fdcId": 170438,
+        "grams": 500
+      },
+      {
+        "fdcId": 174288,
+        "grams": 60
+      },
+      {
+        "fdcId": 170000,
+        "grams": 50
+      },
+      {
+        "fdcId": 171411,
+        "grams": 40
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-93",
+    "name": "Chilli chicken",
+    "finishedYieldGrams": 900,
+    "ingredients": [
+      {
+        "fdcId": 171477,
+        "grams": 450
+      },
+      {
+        "fdcId": 170000,
+        "grams": 200
+      },
+      {
+        "fdcId": 170457,
+        "grams": 120
+      },
+      {
+        "fdcId": 168894,
+        "grams": 80
+      },
+      {
+        "fdcId": 171411,
+        "grams": 45
+      },
+      {
+        "fdcId": 169655,
+        "grams": 20
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-94",
+    "name": "Chicken 65",
+    "finishedYieldGrams": 700,
+    "ingredients": [
+      {
+        "fdcId": 171477,
+        "grams": 500
+      },
+      {
+        "fdcId": 168894,
+        "grams": 70
+      },
+      {
+        "fdcId": 171284,
+        "grams": 60
+      },
+      {
+        "fdcId": 171411,
+        "grams": 55
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-95",
+    "name": "Jalebi",
+    "finishedYieldGrams": 700,
+    "ingredients": [
+      {
+        "fdcId": 168894,
+        "grams": 200
+      },
+      {
+        "fdcId": 171284,
+        "grams": 50
+      },
+      {
+        "fdcId": 169655,
+        "grams": 300
+      },
+      {
+        "fdcId": 171411,
+        "grams": 60
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-96",
+    "name": "Gulab jamun",
+    "finishedYieldGrams": 850,
+    "ingredients": [
+      {
+        "fdcId": 173454,
+        "grams": 200
+      },
+      {
+        "fdcId": 168894,
+        "grams": 80
+      },
+      {
+        "fdcId": 169655,
+        "grams": 300
+      },
+      {
+        "fdcId": 173412,
+        "grams": 40
+      },
+      {
+        "fdcId": 172217,
+        "grams": 100
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-97",
+    "name": "Mysore pak",
+    "finishedYieldGrams": 650,
+    "ingredients": [
+      {
+        "fdcId": 174288,
+        "grams": 200
+      },
+      {
+        "fdcId": 169655,
+        "grams": 250
+      },
+      {
+        "fdcId": 173412,
+        "grams": 200
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-98",
+    "name": "Besan ladoo",
+    "finishedYieldGrams": 650,
+    "ingredients": [
+      {
+        "fdcId": 174288,
+        "grams": 300
+      },
+      {
+        "fdcId": 169655,
+        "grams": 200
+      },
+      {
+        "fdcId": 173412,
+        "grams": 160
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-99",
+    "name": "Rava ladoo",
+    "finishedYieldGrams": 650,
+    "ingredients": [
+      {
+        "fdcId": 168933,
+        "grams": 300
+      },
+      {
+        "fdcId": 169655,
+        "grams": 200
+      },
+      {
+        "fdcId": 173412,
+        "grams": 130
+      },
+      {
+        "fdcId": 170169,
+        "grams": 50
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-100",
+    "name": "Milk peda",
+    "finishedYieldGrams": 650,
+    "ingredients": [
+      {
+        "fdcId": 173454,
+        "grams": 300
+      },
+      {
+        "fdcId": 172217,
+        "grams": 200
+      },
+      {
+        "fdcId": 169655,
+        "grams": 180
+      },
+      {
+        "fdcId": 173412,
+        "grams": 30
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-101",
+    "name": "Kaju katli",
+    "finishedYieldGrams": 650,
+    "ingredients": [
+      {
+        "fdcId": 170162,
+        "grams": 350
+      },
+      {
+        "fdcId": 169655,
+        "grams": 250
+      },
+      {
+        "fdcId": 173412,
+        "grams": 10
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-102",
+    "name": "Rabri",
+    "finishedYieldGrams": 700,
+    "ingredients": [
+      {
+        "fdcId": 172217,
+        "grams": 1000
+      },
+      {
+        "fdcId": 170859,
+        "grams": 150
+      },
+      {
+        "fdcId": 169655,
+        "grams": 130
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-103",
+    "name": "Malpua",
+    "finishedYieldGrams": 800,
+    "ingredients": [
+      {
+        "fdcId": 168894,
+        "grams": 220
+      },
+      {
+        "fdcId": 172217,
+        "grams": 250
+      },
+      {
+        "fdcId": 169655,
+        "grams": 250
+      },
+      {
+        "fdcId": 171411,
+        "grams": 70
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  },
+  {
+    "id": "aura-recipe-104",
+    "name": "Kulfi",
+    "finishedYieldGrams": 800,
+    "ingredients": [
+      {
+        "fdcId": 172217,
+        "grams": 600
+      },
+      {
+        "fdcId": 170859,
+        "grams": 150
+      },
+      {
+        "fdcId": 173454,
+        "grams": 50
+      },
+      {
+        "fdcId": 169655,
+        "grams": 120
+      }
+    ],
+    "note": "Illustrative batch; cooking water/yield and oil vary. Not a verified standard recipe."
+  }
+]

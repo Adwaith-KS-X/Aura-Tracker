@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Aura Tracker",
+    "slug": "aura-tracker",
+    "version": "1.0.2",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.adwaithh.auratracker",
+      "versionCode": 6,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#000000"
+      }
+    },
+    "plugins": [
+      "expo-sqlite",
+      "expo-secure-store",
+      "expo-sharing"
+    ],
+    "backgroundColor": "#000000",
+    "extra": {
+      "eas": {
+        "projectId": "c7a95932-ef05-4d98-9c88-7f7dae9c750e"
+      }
+    },
+    "owner": "adwaithh"
+  }
+}
